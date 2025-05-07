@@ -1,0 +1,25 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none
+}
+
+.container{
+    margin: 0 auto;
+    padding: 0 20px;
+    max-width: 1200px;
+}

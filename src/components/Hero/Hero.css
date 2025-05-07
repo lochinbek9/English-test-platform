@@ -1,0 +1,18 @@
+
+.hero{
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+}
+
+.hero__back__video{
+    position: absolute;
+    z-index: -10000;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
+
+.hero__container{
+    padding-top: 10%;
+}
